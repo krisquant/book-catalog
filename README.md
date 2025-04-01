@@ -2,7 +2,7 @@
 
 ## Author:
 
-- Name: Mikula Kristia
+- Name: Mikula Kristian
 - Neptun ID: ETBCOM
 
 ---
