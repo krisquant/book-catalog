@@ -48,7 +48,7 @@
 		<input type="text" bind:value={author} placeholder="Author" required />
 		<input type="text" bind:value={cover_url} placeholder="Cover URL" />
 		<textarea bind:value={description} placeholder="Description"></textarea>
-		<button type="submit">💾 Save changes</button>
+		<button type="submit">Save changes</button>
 	</form>
 </main>
 
